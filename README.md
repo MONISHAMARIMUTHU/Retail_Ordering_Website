@@ -11,7 +11,7 @@ Design
 Cart → One-to-Many with CartItem
 CartItem → Many-to-One with Cart and Product
 
-🔗 APIs
+APIs
 GET /api/cart/{userId} → Get cart
 POST /api/cart/add → Add item
 DELETE /api/cart/remove/{itemId} → Remove item
