@@ -1,6 +1,6 @@
 My Contribution – Cart Module
 
-Implemented the Cart Management System using Spring Boot, JPA, and MySQL.
+Implemented the Cart Management System using Spring Boot, JPA, and MySQL
 Features
   1.Create or fetch user cart
   2.Add products to cart (userId, productId, quantity)
